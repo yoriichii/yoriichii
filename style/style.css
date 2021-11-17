@@ -1,0 +1,29 @@
+body{
+    background-color:whitesmoke;
+}
+#wrap_page{
+    width: 1080px;
+    margin: 0 auto;
+    background-color:whitesmoke;
+}
+#header{
+    text-align: center;
+}
+#menu ul li{
+    display: inline;
+    margin: 10px;
+    padding-left: 187px;
+}
+#content_page{
+    width: 60%;
+    float: left;
+}
+#sidebar{
+    width: 8%;
+    float: right;
+}
+#hidden{
+    width: 1080px;
+    margin: 0 auto;
+    overflow: hidden;
+}
